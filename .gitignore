@@ -1,0 +1,17 @@
+# зависимости и артефакты сборки
+node_modules/
+build/
+static/
+
+# данные приложения: папки input/output храним, содержимое — игнорируем
+data/input/*
+data/output/*
+data/sessions/
+data/templates/
+!data/input/.gitkeep
+!data/output/.gitkeep
+
+*.log
+.DS_Store
+
+.env

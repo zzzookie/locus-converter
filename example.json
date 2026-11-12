@@ -1,0 +1,105 @@
+[
+  {
+    "id": "d2125c9d-844e-4c75-92a1-3d4c6af044e9",
+    "name": "La Cantina de Ruzafa (Esmorzar Tradición)",
+    "lat": 39.46040645,
+    "lon": -0.3739618423,
+    "category": ["History", "Architecture"],
+    "description": "*What surprising product was once manufactured in this very building?*\n\n**What it is:** A humble restaurant-bar on Literato Azorín with an outsized reputation for the ritual of almuerzo. What it is: “La Cantina” is famous for serving one of the best esmorzarets in town – that hearty mid-morning meal Valencians adore. At 10:30am daily, the place buzzes with workers and foodies devouring bocadillos (like stewed bull tail or figatell patties) and cacaoets (peanuts), all washed down with sweet cremaet coffee.\n\n**Why visit** To partake in a true local ritual. The portions are big, the recipes authentic, and you’ll witness the social side of Valencia’s food culture – tables of friends cheers-ing beers before noon as if it were 5pm. It’s an experience of living tradition that any outsider can join (come hungry!).\n\n<emo>🎸🏭</emo>\nLa Cantina’s building itself is steeped in Russafa lore – it used to be the Vicente Tatay guitar factory where famed Spanish guitars, bandurrias and lutes were made. After a fire in the 1980s, it even hosted a clandestine Communist Party HQ that organized the 1981 NATO protest (you’ll spot old political posters on the walls as a nod). The current owners, Eva and Jaume, opened the eatery about 6 years ago and embraced this heritage. They cultivate their own herbs in the patio and stick to slow-food principles using local ingredients. So when you dine here, you’re not just tasting great Valencian cuisine – you’re literally sitting in a spot where guitars were strummed and history was made, adding a rich flair to your meal. La Cantina shows how in L’Eixample, “local life” isn’t manufactured for tourists; it’s authentically lived every day, plate by plate.",
+    "tags": null,
+    "image_url": "https://prebcxtlfrtgvuttljyy.supabase.co/storage/v1/object/public/images/Ruzaffa/51.webp",
+    "icon_name": "Utensils",
+    "created_at": "2025-09-26T11:42:14+00:00",
+    "one_liner_desc": "Esmorzar feast in a former guitar factory",
+    "snap_facts": ["Bar-restaurant", "Esmorzar focus", "Public access"],
+    "wow_bit": "Before serving bocadillos, this building housed the Vicente Tatay guitar factory, once known worldwide for Spanish guitars, lutes, and bandurrias. After a 1980s fire it even sheltered a clandestine Communist Party HQ that organized the 1981 NATO protest.",
+    "why_it_matters": "Here you don’t just eat—you step into Russafa history, joining locals for esmorzar in a place where guitars rang and politics brewed.",
+    "sources": [
+      {
+        "url": "https://www.valenciabonita.es/2022/05/09/la-cantina-de-ruzafa/",
+        "name": "Valencia Bonita — La Cantina de Ruzafa (2022)"
+      },
+      {
+        "url": "https://www.levante-emv.com/cultura/2015/01/20/fabrica-guitarras-tatay-125-anos-12341317.html",
+        "name": "Levante-EMV — La fábrica de guitarras Tatay (archival)"
+      },
+      {
+        "url": "https://elpais.com/diario/1981/10/26/espana/373714815_850215.html",
+        "name": "El País — Protestas OTAN 1981 Valencia"
+      }
+    ],
+    "on_site_radius_meters": null,
+    "on_site_reveal_text": "Look for faded political posters: they recall when this spot doubled as a secret Communist HQ after the 1980s Tatay fire.",
+    "on_site_teaser_text": "Posters on the wall hint at another life."
+  },
+  {
+    "id": "a0ebd18d-6f68-4f7a-8a23-e6c03b40016d",
+    "name": "CeramiLab",
+    "lat": 39.45895937,
+    "lon": -0.3750242959,
+    "category": ["Food & Drink", "Local commerce"],
+    "description": "**What it is:** A do-it-yourself ceramics studio on Calle Cuba, where you can roll up your sleeves and create a personal Valencia souvenir. What it is: An inviting pottery painting workshop in Russafa. You walk in and choose a blank ceramic piece (maybe a bowl, mug, or figurine; prices range ~€14–35). Then for two blissful hours, you sit down with brushes and glazes to decorate it however you like – polka dots, traditional Valencian patterns, total freestyle – it’s your call.\n\n**Why it’s a great activity:** It’s therapeutic fun and a chance to get artsy even if you’re a novice. Friendly staff are on hand to show you cool techniques (sponge textures, stencils, etc.) so you end up with a surprisingly beautiful piece. It’s popular for groups of friends, families, even solo travelers looking for a creative break from sightseeing. You’ll likely share a table with locals celebrating a birthday or a bachelorette party doing crafts.\n\n**What happens after** You leave your masterpiece for firing and glazing, and in about 1–2 weeks it’s food-safe and ready. (If you’re just visiting, they can sometimes arrange shipping, or you could simply paint-and-donate.) The joy is in the making!\n\n**Backstory** CeramiLab rides the wave of DIY craft bars but adds a Valencian twist – ceramics are a regional tradition (think socarrat tiles and Manises pottery). By participating, you’re connecting with that heritage hands-on. This studio has become a neighborhood favorite since it opened, reflecting how Russafa’s people love to mix creativity with socializing. Even if you don’t speak Spanish, art is a universal language here. You’ll walk out with paint-splattered hands, a big smile, and a one-of-a-kind creation – which is about as local and random a fun memory as you can get.",
+    "tags": null,
+    "image_url": "https://prebcxtlfrtgvuttljyy.supabase.co/storage/v1/object/public/images/Ruzaffa/52.webp",
+    "icon_name": "Art",
+    "created_at": "2025-09-26T11:42:14+00:00",
+    "one_liner_desc": "DIY ceramics studio in Ruzafa.",
+    "snap_facts": ["Pottery workshop", "Paint & fire", "Visitor-friendly"],
+    "wow_bit": "Express kiln: standard firing takes 2 weeks, but if you paint on Wednesday they fire it fast so it’s ready by Saturday—easy for travelers.",
+    "why_it_matters": "Make and paint your own piece; staff fire and glaze it for you.",
+    "sources": [
+      {
+        "url": "https://www.ceramilab.com/travelers/",
+        "name": "CeramiLab — Travelers (express kiln: Wed→Sat; standard 2 weeks)"
+      },
+      {
+        "url": "https://www.ceramilab.com/",
+        "name": "CeramiLab — Site (how sessions work)"
+      },
+      {
+        "url": "https://www.facebook.com/61564288001386/",
+        "name": "Ceramilab — Facebook (pricing note €24 pieces)"
+      }
+    ],
+    "on_site_radius_meters": null,
+    "on_site_reveal_text": "Step inside and you’ll see shelves stacked with blank mugs, bowls, and plates. Pick one from the wall, grab paints, and sit at the big shared tables—staff will guide you through techniques.",
+    "on_site_teaser_text": "A mid-week trick helps you take it home."
+  },
+  {
+    "id": "b5d21bb0-6083-496a-9e44-c57adbd337bb",
+    "name": "Ruzafa Police Station – Site of the “Valencia Poisoner” Case",
+    "lat": 39.45584913,
+    "lon": -0.3671844722,
+    "category": ["History"],
+    "description": "*What grim distinction makes Pilar Prades’s execution infamous in Spain’s history?*\n\n**What it is:** The century-old police precinct serving Ruzafa (today a National Police commissary on Calle Zapadores) that unwittingly became the headquarters of one of Spain’s most infamous criminal investigations. In 1957, detectives here cracked the case of Pilar Prades, dubbed “La Envenenadora de Valencia” (The Valencia Poisoner). This ordinary station is where evidence was compiled and a dramatic arrest was coordinated in a case so notorious it inspired a classic Spanish film (El Verdugo by Berlanga).\n\n**Why visit** While the station itself isn’t a tourist attraction (it’s an active police office), true-crime aficionados might appreciate a quick stop outside to connect with a dark chapter of Valencia’s lore. There’s no plaque, but knowing that within those walls officers pieced together the puzzle of mysterious arsenic poisonings adds an ominous air. This is the very district where Prades worked as a maid and committed her crimes. Nearby, you might stroll down Calle Sagunto (where one victim’s shop was) or imagine the 1950s city where a shy, unassuming housemaid secretly became a serial poisoner. It’s a chilling story of envy and murder right in the neighborhood.\n\n**Backstory** Pilar Prades was a provincial girl who came to Valencia and served in several households – until suspicion grew that her employers were dying after falling ill. In 1957, a military doctor whose wife and cook had both been stricken filed a report at Comisaría de Ruzafa when tests revealed arsenic poisoning. Police exhumed a previous employer, Doña Adela, whose corpse showed telltale chemical preservation. The Ruzafa detectives searched Pilar’s room and found a bottle of “Diluvión” ant poison hidden among her linens. She was arrested and eventually convicted of murder and two attempted murders.\n\n<emo>⚖️☠️📜</emo>\nIn 1959 Spain executed her by garrote – the last woman ever to be executed by that method. The grim finale took place at Valencia’s women’s prison, but it was the Ruzafa police work that cracked the case. The story fascinated and horrified Spain; decades later, Valencia’s crime tour guides still recount how an unremarkable Ruzafa boarding house maid turned into a figure of legend. For those interested in offbeat history, the Ruzafa station and surrounding streets ground the sensational tale in real geography, making the past feel a bit more real.",
+    "tags": null,
+    "image_url": "https://prebcxtlfrtgvuttljyy.supabase.co/storage/v1/object/public/images/Ruzaffa/53.webp",
+    "icon_name": "Graveyard",
+    "created_at": "2025-09-26T11:42:14+00:00",
+    "one_liner_desc": "Station tied to Spain’s last female execution",
+    "snap_facts": ["Police station", "1950s case", "Active office"],
+    "wow_bit": "In 1959 A woman was executed by garrote for killing her employer Adela Pascual with arsenic and trying to poison two others. Prosecutors said jealousy—wanting to take the lady’s place—drove her; Ruzafa police built the case in 1957.",
+    "why_it_matters": "A sober stop for true-crime fans: it links Ruzafa to a grim national “last.” View only from the sidewalk—this is a working precinct.",
+    "sources": [
+      {
+        "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20200411/48394915951/ultima-mujer-ejecutada-espana-garrote-vil-pilar-prades-antonio-lopez-sierra.html",
+        "name": "La Vanguardia/Historia y Vida — La última ejecución de una mujer en España (11-04-2020)"
+      },
+      {
+        "url": "https://www.abc.es/local-comunidad-valenciana/20150727/abci-historia-ultima-mujer-ejecutada-201507271235.html",
+        "name": "ABC — La historia de la última mujer ejecutada en España (27-07-2015)"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Pilar_Prades",
+        "name": "Wikipedia (ES) — Pilar Prades (consultado 2025)"
+      },
+      {
+        "url": "https://www.larazon.es/comunidad-valenciana/20201108/zfneyz2yrnfybdjxnpm55ao6si.html",
+        "name": "La Razón — Zapadores, el complejo policial con comisaría de Ruzafa (08-11-2020)"
+      }
+    ],
+    "on_site_radius_meters": null,
+    "on_site_reveal_text": "From the curb, spot the Policía Nacional crest by the gate. Keep voices low and avoid filming; it’s an active station.",
+    "on_site_teaser_text": "No plaque here—just a crest and busy desks inside."
+  }
+]
